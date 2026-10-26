@@ -1,0 +1,7 @@
+/target/
+/dados/
+/executaveis/*.jar
+/executaveis/dados/
+*.log
+/.idea/
+*.iml
